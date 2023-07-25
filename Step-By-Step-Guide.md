@@ -6,7 +6,7 @@
   
 - When creating a Spring Boot application, ensure to include the following dependencies for building web applications ("Spring Web"), database connectivity using JPA ("Spring Data JPA"), enabling MySQL database communication ("MySQL Driver"), and code simplification with Lombok.
 
-<img width="906" alt="startspringexemple" src="https://github.com/Guigaga/spring-boot-mysql-connection-example/assets/109106000/786bedc1-1847-4ede-9889-9f33e1150f00">
+<img width="906" alt="startspringexemple" src="./img/startspringexemple.png">
 
 - Click "Generate" to download the project as a ZIP file.
 
@@ -21,7 +21,7 @@
 - Open the `application.properties` file (located in `src/main/resources`).
 
 <p align="center">
-<img width="244" alt="Captura de ecrã 2023-07-25 170612" src="https://github.com/Guigaga/spring-boot-mysql-connection-example/assets/109106000/dbd3cf52-a804-4ef4-8719-6fbeb3d55155">
+<img width="244" alt="Captura de ecrã 2023-07-25 170612" src="./img/navbarexemple.png">
 </p>
 - Add the following lines to configure the MySQL connection:
 
