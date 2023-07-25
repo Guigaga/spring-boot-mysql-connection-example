@@ -2,7 +2,7 @@
 
 ## 1. Spring Initializer:
 
-- Go to the <a href="https://start.spring.io/" target="_blank">Spring Initializer website</a>.(right-click and choose "Open link in new tab" or use middle-click).
+- Go to the <a href="https://start.spring.io/" target="_blank">Spring Initializer website</a>. (right-click and choose "Open link in new tab" or use middle-click).
   
 - When creating a Spring Boot application, ensure to include the following dependencies for building web applications ("Spring Web"), database connectivity using JPA ("Spring Data JPA"), enabling MySQL database communication ("MySQL Driver"), and code simplification with Lombok.
 
